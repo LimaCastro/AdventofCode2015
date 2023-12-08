@@ -59,7 +59,7 @@ int main (){
 }
 
 int floorX (FILE *fl){
-    //váriavel que será utilizada para contar os os andares e descobrir onde ele se encontra no momento e a variavel que vai receber o caractere
+    //variável que será utilizada para contar os os andares e descobrir onde ele se encontra no momento e a variavel que vai receber o caractere
     int count = 0;
     char compare;
 
